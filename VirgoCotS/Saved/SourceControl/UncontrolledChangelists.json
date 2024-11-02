@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Levels/Winter_River.umap",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Textures/WaterV1.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Textures/WaterV1_Mat.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Levels/Winter_Main.umap",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Materials/WaterV1_Mat.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Levels/_GENERATED/micha/CubeGridToolOutput_445184F4.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/_GENERATED/micha/CubeGridToolOutput_BB658BE9.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Textures/WaterV2.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Materials/M_Water.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Materials/M_Mountain.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Materials/Mountain_Texture_Mat.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Materials/M_Winter_Mountain.uasset",
+				"C:/Users/micha/Downloads/Virgo CotS (v3)/VirgoCotS/Content/Materials/M_Water2.uasset",
 				"D:/SCHOOL STUFF/Fall 2024/GAME 490/Virgo_Children_of_the_Stars/VirgoCotS/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
